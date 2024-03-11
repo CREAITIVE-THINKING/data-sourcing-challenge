@@ -58,7 +58,4 @@ This project involves extracting movie reviews and details from two prominent so
 ## Contributing
 Contributions to improve the project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 Repository Link: https://github.com/CREAITIVE-THINKING/data-sourcing-challenge
